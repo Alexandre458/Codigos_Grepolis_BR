@@ -4,8 +4,6 @@
 // @version      2.0.0
 // @author       BadUser
 // @homepage     https://grepodata.com/indexer
-// @updateURL    https://api.grepodata.com/script/indexer.user.js
-// @downloadURL	 https://api.grepodata.com/script/indexer.user.js
 // @description  Esse script permite a automátização da indexação dos relatórios do jogo.
 // @include      https://*.grepolis.com/game/*
 // @include      https://grepodata.com*
