@@ -1,0 +1,2 @@
+Script para auxiliar no uso do GrepoData, que é um sistema a parte do Grepolis para gerenciamento de tropas inimigas para que o jogador possa conhecer o poder de fogo dos inimigos.
+Esse script adiciona as informações dos relatórios de forma automática para o GrepoData, basta apenas abrir o relatório e será adicionado automaticamente.
