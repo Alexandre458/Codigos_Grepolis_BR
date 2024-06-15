@@ -1,6 +1,6 @@
 # 📜 **GrepoData Auto_Indexar - Script para Grepolis**
 
-Bem-vindo ao repositório do **GrepoData Auto_Indexar**! 🏰
+Bem-vindo ao **GrepoData Auto_Indexar**! 🏰
 
 Este script, desenvolvido para ser usado com Tampermonkey ou Greasemonkey, tem como objetivo automatizar a indexação de relatórios no jogo **Grepolis**. Criado para melhorar a eficiência e a experiência de gestão de dados dos jogadores, o **GrepoData Auto_Indexar** facilita o envio de relatórios de batalhas e outras informações diretamente para o [GrepoData](https://grepodata.com/indexer).
 
