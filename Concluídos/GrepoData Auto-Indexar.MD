@@ -76,11 +76,11 @@ Contribuições são bem-vindas! Se você tiver sugestões, correções ou novas
 
 ### **Código de Conduta**
 
-Ao contribuir, siga o [Código de Conduta](https://github.com/seu-usuario/seu-repositorio/blob/main/CODE_OF_CONDUCT.md) para manter um ambiente colaborativo e respeitoso.
+Ao contribuir, siga o [Código de Conduta](https://github.com/Alexandre458/Codigos_Grepolis_BR/blob/main/CODE_OF_CONDUCT.md) para manter um ambiente colaborativo e respeitoso.
 
 ### **Reportar Problemas**
 
-Para reportar bugs ou solicitar novas funcionalidades, por favor abra uma [issue](https://github.com/seu-usuario/seu-repositorio/issues). Forneça o máximo de detalhes possível para ajudar na reprodução e solução do problema.
+Para reportar bugs ou solicitar novas funcionalidades, por favor abra uma [issue](https://github.com/Alexandre458/Codigos_Grepolis_BR/issues). Forneça o máximo de detalhes possível para ajudar na reprodução e solução do problema.
 
 ---
 
