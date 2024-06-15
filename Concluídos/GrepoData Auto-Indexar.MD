@@ -46,7 +46,8 @@ O script adiciona automaticamente um script e um stylesheet personalizados do Gr
     CustomStyleCSS.href = 'https://api.grepodata.com/script/indexer.css?v=' + rand;
     document.getElementsByTagName("head")[0].appendChild(CustomStyleCSS);
     console.log("Added GrepoData City Indexer by Tamper/GreaseMonkey");
-})();```
+})();
+```
 
 ## 📝 **Contribuição**
 
