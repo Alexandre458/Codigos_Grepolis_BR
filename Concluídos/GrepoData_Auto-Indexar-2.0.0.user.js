@@ -22,5 +22,5 @@
     CustomStyleCSS.type = 'text/css';
     CustomStyleCSS.href = 'https://api.grepodata.com/script/indexer.css?v=' + rand;
     document.getElementsByTagName("head")[0].appendChild(CustomStyleCSS);
-    console.log("Added GrepoData City Indexer by Tamper/GreaseMonkey");
+    console.log("Gredata Auto_Indexar adicionado com sucesso.");
 })();
